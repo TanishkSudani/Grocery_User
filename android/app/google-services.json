@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "727277842842",
+    "project_id": "grocery-app-980ba",
+    "storage_bucket": "grocery-app-980ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727277842842:android:3d9854a28605f6a00d0a23",
+        "android_client_info": {
+          "package_name": "com.example.grocery_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727277842842-2assall1tgt32trfu41j4oqbk7ml8gf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery_delivery_app",
+            "certificate_hash": "16ff1316bb91457a0d0bba3a054f711fab0cf172"
+          }
+        },
+        {
+          "client_id": "727277842842-5qf879i5hfmrusl9t4d4u861n7j364hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery_delivery_app",
+            "certificate_hash": "ab20a31236680ef224119b04cae21309bb9614bb"
+          }
+        },
+        {
+          "client_id": "727277842842-8du54llt0nn2lh41u1bui32u67g4krte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHOufFmjUzt-xo_SsN-vpGOKatVuMUO0"
+        },
+        {
+          "current_key": "AIzaSyCQ1aUD3cRFO6nKCE9QLB2yel-VdSRIZ5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727277842842-8du54llt0nn2lh41u1bui32u67g4krte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727277842842-a5deqluissj0qi4mnl0f9orp1p5rfav1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727277842842:android:48286f1d37c641460d0a23",
+        "android_client_info": {
+          "package_name": "com.example.grocery_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727277842842-2njhn9asntrjk211u27epkiaqf3eaupv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery_project",
+            "certificate_hash": "ab20a31236680ef224119b04cae21309bb9614bb"
+          }
+        },
+        {
+          "client_id": "727277842842-4ta68feo36dhpnob4q2i4cg2b5uso3gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery_project",
+            "certificate_hash": "16ff1316bb91457a0d0bba3a054f711fab0cf172"
+          }
+        },
+        {
+          "client_id": "727277842842-8du54llt0nn2lh41u1bui32u67g4krte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHOufFmjUzt-xo_SsN-vpGOKatVuMUO0"
+        },
+        {
+          "current_key": "AIzaSyCQ1aUD3cRFO6nKCE9QLB2yel-VdSRIZ5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727277842842-8du54llt0nn2lh41u1bui32u67g4krte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727277842842-a5deqluissj0qi4mnl0f9orp1p5rfav1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727277842842:android:0ba6a0ae499040720d0a23",
+        "android_client_info": {
+          "package_name": "com.example.grocery_vendor_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727277842842-8du54llt0nn2lh41u1bui32u67g4krte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHOufFmjUzt-xo_SsN-vpGOKatVuMUO0"
+        },
+        {
+          "current_key": "AIzaSyCQ1aUD3cRFO6nKCE9QLB2yel-VdSRIZ5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727277842842-8du54llt0nn2lh41u1bui32u67g4krte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727277842842-a5deqluissj0qi4mnl0f9orp1p5rfav1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
